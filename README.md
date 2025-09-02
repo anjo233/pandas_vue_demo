@@ -1,5 +1,5 @@
 # 配置说明
-1. 安装必要的库
+ 1. 安装必要的库
 $$ pip install "fastapi[all]" pandas "uvicorn[standard]" python-multipart aiofiles $$
 
 $$ cd frontend $$
